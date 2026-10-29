@@ -3,5 +3,7 @@ new-page: true
 
 = Muted Dissonance
 
+audio: shuffle music/German Socialist Song - Keiner oder Alle [No one, or everyone] - SomeDudeTM.mp3/out_html_music_AufAufZumKampf.mp3/out_html_music_RoterWedding.mp3/out_html_music_Sozialistische Weltrepublik.mp3
+
 # Scenes with a top tag can be displayed here.
 - #top
