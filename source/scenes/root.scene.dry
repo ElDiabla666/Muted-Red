@@ -6,4 +6,5 @@ new-page: true
 # Scenes with a top tag can be displayed here.
 - #top
 
+@one.scene.dry
 audio: shuffle music/German Socialist Song - Keiner oder Alle [No one, or everyone] - SomeDudeTM.mp3/out_html_music_AufAufZumKampf.mp3/out_html_music_RoterWedding.mp3/out_html_music_Sozialistische Weltrepublik.mp3
